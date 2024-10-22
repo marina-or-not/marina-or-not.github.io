@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>FIREWALL</title>
-      <link>https://marina-or-not.github.io/portfolio/firewall/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://marina-or-not.github.io/portfolio/firewall/</guid>
-      <description>&lt;p&gt;Border politics, virtuality and dissociation.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>I&#39;m a Robot and I need Therapy</title>
       <link>https://marina-or-not.github.io/portfolio/robot/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
@@ -30,12 +21,21 @@
     </item>
     
     <item>
+      <title>FIREWALL</title>
+      <link>https://marina-or-not.github.io/portfolio/firewall/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://marina-or-not.github.io/portfolio/firewall/</guid>
+      <description>&lt;p&gt;Border politics, virtuality and dissociation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Dance, Neurodiversity and Robots</title>
       <link>https://marina-or-not.github.io/portfolio/videolecture/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>https://marina-or-not.github.io/portfolio/videolecture/</guid>
-      <description>&lt;p&gt;Mad Studies&lt;br&gt;
+      <description>&lt;p&gt;Mad Studies &lt;br&gt;
 (videolecture)&lt;/p&gt;</description>
     </item>
     
